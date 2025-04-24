@@ -1,17 +1,17 @@
 {
-    "username": "noriaku",
+    "username": "coffee",
     
-    "country": "Peru",
-    "city": "Lima",
+    "country": "Florida",
+    "city": "Fort Myers",
 
     "categories": {
-        "work": {
-            "slack": "https://slack.com/",
-            "trello": "https://trello.com"
+        "anime": {
+            "hianime": "https://hianimez.to/",
+            "anilist": "https://anilist.co/user/RyuzoCerz/animelist"
         },
-        "news": {
-            "xataka": "https://xataka.com",
-            "theverge": "https://theverge.com"
+        "personal": {
+            "youtube": "https://www.youtube.com/",
+            "steamrip": "https://steamrip.com/"
         },
         "social": {
             "github": "https://github.com",
